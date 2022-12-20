@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/Pokimon-app/static/css/main.31d6cfe0.css",
+    "main.js": "/Pokimon-app/static/js/main.0fbd489f.js",
+    "index.html": "/Pokimon-app/index.html",
+    "main.0fbd489f.js.map": "/Pokimon-app/static/js/main.0fbd489f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.0fbd489f.js"
+  ]
+}
